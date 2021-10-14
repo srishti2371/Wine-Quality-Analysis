@@ -57,7 +57,7 @@ We have followed a step by step procedure for the analysis of our dataset. We ha
 
 Accuracy from Decision Tree Classifier is 73.74 %
 
-Accuracy from RandomForestClassifier is 80.43 %
+Accuracy from RandomForestClassifier is 81.5 %
 
 Accuracy from Adaboost classifier is 76.76 %
 
@@ -73,7 +73,7 @@ Accuracy from Support Vector Machine algorithm is 70.36 %
 
 ## Conclusion
 Both red and white wine dataset consists of 12 physicochemical characteristics. One (quality) is dependent variable and the other 11 are predictors. The experiments show that the value of the dependent variable can be predicted more accurately if only important features are considered in prediction rather than considering all features.
-In this work, machine learning techniques are used to determine dependency of wine quality on other variables and  in  wine  quality predictions. We have analysed that there are some variables which have a strong effect on our output variables and they are: alcohol, density, volatile acidity. There are also variables which affect these variables and they are chloride, residual sugar, volatile aciditfy, Sulphide oxide. After applying all the Machine Learning Algorithms, we have realised that Gradient Boosting Algorithm gives the best result in terms of accuracy of 80.64 %.
+In this work, machine learning techniques are used to determine dependency of wine quality on other variables and  in  wine  quality predictions. We have analysed that there are some variables which have a strong effect on our output variables and they are: alcohol, density, volatile acidity. There are also variables which affect these variables and they are chloride, residual sugar, volatile aciditfy, Sulphide oxide. After applying all the Machine Learning Algorithms, we have realised that Random Forest Algorithm gives the best result in terms of accuracy of 81.5 %.
 
 ## Developers
 
