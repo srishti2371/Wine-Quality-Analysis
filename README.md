@@ -59,17 +59,13 @@ Accuracy from Decision Tree Classifier is 73.74 %
 
 Accuracy from RandomForestClassifier is 81.5 %
 
-Accuracy from Adaboost classifier is 76.76 %
-
-Accuracy from Gradient Boosting Algorithm is 80.64 %
-
-Accuracy from XGBoost Classifier is 80.43 %
-
 Accuracy from Naive Bayes is 70.36 %
 
 Accuracy from K-Nearest Neighbours is 78.06 %
 
 Accuracy from Support Vector Machine algorithm is 70.36 %
+
+Accuracy from RandomForestClassifier is 81.5 %
 
 ## Conclusion
 Both red and white wine dataset consists of 12 physicochemical characteristics. One (quality) is dependent variable and the other 11 are predictors. The experiments show that the value of the dependent variable can be predicted more accurately if only important features are considered in prediction rather than considering all features.
