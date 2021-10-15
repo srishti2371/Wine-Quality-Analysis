@@ -57,8 +57,6 @@ We have followed a step by step procedure for the analysis of our dataset. We ha
 
 Accuracy from Decision Tree Classifier is 73.74 %
 
-Accuracy from RandomForestClassifier is 81.5 %
-
 Accuracy from Naive Bayes is 70.36 %
 
 Accuracy from K-Nearest Neighbours is 78.06 %
